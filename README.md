@@ -11,7 +11,6 @@ I am a **Senior Agentic AI Engineer** specializing in the orchestration of auton
 - 🌱 **Deep Diving:** Exploring the intersection of **Small Language Models (SLMs)** and edge-based agentic reasoning.
 - 👯 **Open Source:** Active contributor to **[aden-hive/hive](https://github.com/aden-hive/hive)** (Agentic Framework Internals).
 - 💬 **Consulting:** Helping enterprises transition from "Chatbots" to "Agentic Workforces".
-- ⚡ **Fun fact:** I once built an agent that accidentally tried to hire me for a job it was supposed to apply for.
 
 ---
 
